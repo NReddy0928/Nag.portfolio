@@ -1,5 +1,5 @@
 # Nag.portfolio
-This project represents a  fully responsive, modern, and clean personal portfolio website** built entirely with HTML, CSS, and vanilla JavaScript. The goal of this portfolio is to present a professional digital identity with strong emphasis on clarity, usability, and aesthetic appeal. Every part of the interface—from layout to typography—has been designed to create a smooth, memorable, and visually refined user experience.
+This project represents a  fully responsive, modern, and clean personal portfolio website built entirely with HTML, CSS, and vanilla JavaScript. The goal of this portfolio is to present a professional digital identity with strong emphasis on clarity, usability, and aesthetic appeal. Every part of the interface—from layout to typography—has been designed to create a smooth, memorable, and visually refined user experience.
 
 The website follows a modern UI/UX approach, featuring a professional blue-and-white color palette, soft shadows, rounded UI components, and carefully balanced whitespace. These elements work together to create a visually harmonious interface suitable for showcasing technical skills, projects, and professional accomplishments.
 
