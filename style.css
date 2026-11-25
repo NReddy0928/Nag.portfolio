@@ -43,13 +43,6 @@
   width: min(100%, 510px);
   height: auto;
   margin-block-end: 24px;
-
-  /* White backing for the translucent pixels in each eye. */
-  background:
-    linear-gradient(to right,
-      transparent 40%, #fff 40% 48%, transparent 48% 51.5%,
-      #fff 51.5% 59%, transparent 59%
-    ) left 26.7% / 100% 4% no-repeat;
 }
 
 .portrait-ring {
